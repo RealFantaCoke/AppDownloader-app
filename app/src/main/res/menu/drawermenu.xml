@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/menu_main"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/main_startseite"
+            android:title="@string/main_startseite" />
+    </group>
+
+    <group
+        android:id="@+id/menu_pages"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/pages_apkmirror"
+            android:title="@string/pages_apkmirror" />
+    </group>
+
+    <group
+        android:id="@+id/menu_other"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/other_settings"
+            android:title="@string/settings" />
+        <item
+            android:id="@+id/other_credits"
+            android:title="@string/credits" />
+        <item
+            android:id="@+id/other_changelog"
+            android:title="@string/changelog" />
+    </group>
+</menu>

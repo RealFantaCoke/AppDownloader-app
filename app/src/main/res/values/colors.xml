@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#201f24</color>
+    <color name="colorPrimaryDark">#201f24</color>
+    <color name="colorAccent">#E65100</color>
+    <color name="darkBackground">#000000</color>
+
+    <color name="changelogTitle">#ffffff</color>
+    <color name="changelogBackground">#201f24</color>
+    <color name="changelogSpacer">#000000</color>
+    <color name="changelogAdded">#43a047</color>
+    <color name="changelogNeutral">#e64a19</color>
+    <color name="changelogRemoved">#a30000</color>
+</resources>

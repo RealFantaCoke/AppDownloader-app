@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">AppDownloader</string>
+    <string name="open">Öffnen</string>
+    <string name="close">Schließen</string>
+    <string name="credits" translatable="false">Credits</string>
+    <string name="author" translatable="false">by CrazyMemeCoke</string>
+    <string name="settings">Einstellungen</string>
+    <string name="settings_lightmode">Heller Modus</string>
+    <string name="settings_bottomnavigation">Untere Navigation</string>
+    <string name="changelog">Änderungen</string>
+    <string name="main_startseite">Startseite</string>
+    <string name="pages_apkmirror" translatable="false">APKMirror</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="settings">Settings</string>
+    <string name="settings_lightmode">Light mode</string>
+    <string name="settings_bottomnavigation">Bottom Navigation</string>
+    <string name="changelog">Changelog</string>
+    <string name="main_startseite">Start page</string>
+</resources>
