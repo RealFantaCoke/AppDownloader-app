@@ -50,6 +50,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         Settings settingsF = new Settings();
         Changelog changelogF = new Changelog();
         APKMirror apkMirrorF = new APKMirror();
+        APKPure apkPureF = new APKPure();
         FragmentManager manager = getSupportFragmentManager();
 
         switch (menuItem.getItemId()) {
@@ -59,6 +60,10 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                 break;
             case R.id.pages_apkmirror:
                 manager.beginTransaction().replace(R.id.flcontent, apkMirrorF).commit();
+                drawerLayout.closeDrawers();
+                break;
+            case R.id.pages_apkpure:
+                manager.beginTransaction().replace(R.id.flcontent, apkPureF).commit();
                 drawerLayout.closeDrawers();
                 break;
             case R.id.other_credits:

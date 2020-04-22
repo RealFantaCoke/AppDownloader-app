@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AdminOf13FPS.iml" filepath="$PROJECT_DIR$/AdminOf13FPS.iml" group="AdminOf13FPS" />
+      <module fileurl="file://$PROJECT_DIR$/AppDownload.iml" filepath="$PROJECT_DIR$/AppDownload.iml" group="AppDownload" />
+      <module fileurl="file://$PROJECT_DIR$/AppDownloader-app-AppDownload.iml" filepath="$PROJECT_DIR$/AppDownloader-app-AppDownload.iml" group="AppDownload" />
       <module fileurl="file://$PROJECT_DIR$/.idea/MasterOf13FPS-app.iml" filepath="$PROJECT_DIR$/.idea/MasterOf13FPS-app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="AdminOf13FPS/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="AppDownload/app" />
     </modules>
   </component>
 </project>

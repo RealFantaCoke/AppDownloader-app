@@ -12,7 +12,7 @@
     <FrameLayout
         android:id="@+id/flcontent"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"></FrameLayout>
+        android:layout_height="match_parent" />
 
     <android.support.design.widget.NavigationView
         android:id="@+id/navigationView"
@@ -22,6 +22,6 @@
         android:background="@color/darkBackground"
         app:headerLayout="@layout/header"
         app:itemTextColor="@android:color/white"
-        app:menu="@menu/drawermenu"></android.support.design.widget.NavigationView>
+        app:menu="@menu/drawermenu" />
 
 </android.support.v4.widget.DrawerLayout>

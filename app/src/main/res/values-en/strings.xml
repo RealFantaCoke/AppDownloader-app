@@ -7,4 +7,5 @@
     <string name="settings_bottomnavigation">Bottom Navigation</string>
     <string name="changelog">Changelog</string>
     <string name="main_startseite">Start page</string>
+    <string name="welcome">Welcome!</string>
 </resources>

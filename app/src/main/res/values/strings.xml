@@ -10,6 +10,10 @@
     <string name="changelog">Änderungen</string>
     <string name="main_startseite">Startseite</string>
     <string name="pages_apkmirror" translatable="false">APKMirror</string>
+    <string name="welcome">Willkommen!</string>
+    <string name="pages_apkpure" translatable="false">APKPure</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
 
     <!-- TODO: Remove or change this placeholder text -->
 </resources>
